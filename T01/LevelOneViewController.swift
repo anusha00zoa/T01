@@ -10,6 +10,8 @@ import UIKit
 
 class LevelOneViewController: UIViewController {
 
+    @IBOutlet weak var LevelOneGrid: UICollectionView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
