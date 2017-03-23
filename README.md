@@ -1,4 +1,4 @@
-# Tic-Tac-Free-
+# Tic-Tac-Free
 
 A simple puzzle game with 3 difficulty levels.
 
